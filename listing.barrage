@@ -1,0 +1,38 @@
+# Quantum Niche Optimizer
+
+> A niche-optimizer project with a quantum-themed name. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/quantum-niche-optimizer.
+
+## How it works (plain English)
+1. Keep the original repo as the place for the optimizer.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source to run it.
+
+## Key ideas
+- Niche optimizer (search a small space well)
+- Quantum-themed name (the brand of the repo)
+
+## The actual code
+```
+# source: fitzyracing1/quantum-niche-optimizer
+open_source()
+optimize_niche()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the optimizer repo”
+2. optimize_niche() → “run the search in that small space”
+
+## Decisions the program makes
+- If a reader needs the program → send them to the source
+
+## What a person would notice
+A named wrap on an optimizer door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open fitzyracing1/quantum-niche-optimizer.
